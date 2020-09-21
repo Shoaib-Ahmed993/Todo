@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+.btn{
+    font-weight: bold;
+}
+.edit{
+    background-color: aqua;
+}
+.del{
+    background-color: brown;
+}
+.line{
+    line-height: 10px;
+    background-color: black;
+}
+.list{
+    list-style-type: none;
+}
+.btn-outline-success{
+    margin-left: 15%;
+    margin-right: -10%;
+    width: 150px;
+}
+.btn-outline-danger{
+    margin-left: 15%;
+    width: 150px;
+}
+
